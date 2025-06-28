@@ -31,7 +31,7 @@ RFV é uma técnica de segmentação de clientes que agrupa os clientes com base
 
 1. Clone o repositório:
    ```sh
-   git clone https://github.com/Jefersonfranca/rfv-projeto/
+   git clone https://github.com/igorsiilva07/rfv-projeto/
 
 2. Navegue até o diretório do projeto:
    ```sh

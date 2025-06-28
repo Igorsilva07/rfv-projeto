@@ -2,6 +2,7 @@
 <img src="https://raw.githubusercontent.com/Jefersonfranca/Previs-o-de-Renda/main/imagens/newebac_logo_black_half.png" alt="ebac-logo" width=50%>
 </div>
 
+
 # Projeto RFV
 
 Este projeto utiliza a metodologia RFV (Recência, Frequência e Valor) para segmentação de clientes baseado no comportamento de compras dos clientes. A aplicação é construída utilizando Streamlit para a interface web e Pandas para manipulação de dados.
@@ -10,6 +11,10 @@ Este projeto utiliza a metodologia RFV (Recência, Frequência e Valor) para seg
 ## Descrição
 
 RFV é uma técnica de segmentação de clientes que agrupa os clientes com base na Recência (R), Frequência (F) e Valor (V) das suas compras. Esses grupos podem ser utilizados para direcionar ações de marketing mais eficientes e personalizadas.
+
+
+https://github.com/user-attachments/assets/efbc4d70-ac24-466c-8aa5-39c6c273d613
+
 
 ## Funcionalidades
 
